@@ -1,0 +1,1 @@
+This is gkupiec’s first git project!
